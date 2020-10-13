@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidBLE</string>
+    <string name="connection_device">已连接设备</string>
+</resources>
